@@ -113,3 +113,31 @@ Final Logistic Regression Model:
 ---
 
 ## 📂 Repository Structure
+├── Heart_Stroke_Analysis_Code.R
+├── healthcare-dataset-stroke-data.csv
+├── Heart_Stroke_Analysis_Presentation.pptx
+├── Heart_Stroke_Analysis.docx
+
+
+---
+
+## 🧠 Key Takeaways
+
+- Age, hypertension, and heart disease are strong predictors of stroke  
+- Regularization (Lasso) improves model robustness  
+- Statistical + ML combination provides both **interpretability and prediction power**
+
+---
+
+## 🚀 Future Improvements
+
+- Add more advanced models (Random Forest, XGBoost)  
+- Handle class imbalance (SMOTE / resampling techniques)  
+- Deploy as a real-time prediction API  
+- Integrate with healthcare dashboards  
+
+---
+
+## 🎯 Final Thought
+
+This project demonstrates how **data analysis + machine learning** can be used to uncover meaningful health insights and support early intervention strategies.
