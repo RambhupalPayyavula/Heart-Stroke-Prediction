@@ -112,16 +112,6 @@ Final Logistic Regression Model:
 
 ---
 
-## 📂 Repository Structure
-```bash
-Heart-Stroke-Prediction/
-├── Heart_Stroke_Analysis_Code.R
-├── healthcare-dataset-stroke-data.csv
-├── Heart_Stroke_Analysis_Presentation.pptx
-├── Heart_Stroke_Analysis.docx
-
-
----
 
 ## 🧠 Key Takeaways
 
@@ -143,3 +133,12 @@ Heart-Stroke-Prediction/
 ## 🎯 Final Thought
 
 This project demonstrates how **data analysis + machine learning** can be used to uncover meaningful health insights and support early intervention strategies.
+
+
+## 📂 Repository Structure
+```bash
+Heart-Stroke-Prediction/
+├── Heart_Stroke_Analysis_Code.R
+├── healthcare-dataset-stroke-data.csv
+├── Heart_Stroke_Analysis_Presentation.pptx
+├── Heart_Stroke_Analysis.docx
