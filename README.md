@@ -113,6 +113,8 @@ Final Logistic Regression Model:
 ---
 
 ## 📂 Repository Structure
+```bash
+Heart-Stroke-Prediction/
 ├── Heart_Stroke_Analysis_Code.R
 ├── healthcare-dataset-stroke-data.csv
 ├── Heart_Stroke_Analysis_Presentation.pptx
